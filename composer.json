@@ -1,0 +1,11 @@
+{
+    "name": "rafael/projeto-financas-php",
+    "require": {
+        "robmorgan/phinx": "^0.11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "FETECNOFin\\": "src/"
+        }
+    }
+}
